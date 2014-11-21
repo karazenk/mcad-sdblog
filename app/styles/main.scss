@@ -1,16 +1,13 @@
 // main.scss
 
-@import "variables";
-@import "globals";
+  @import "globals";
+  @import "variables";
 
 // modules
-@import "article-block";
-@import "blog-title";
-@import "css-module";
-@import "main-nav";
-@import "page-footer";
-@import "social-media";
-@import "utility-nav";
-
-//main.scss
-@import 
+  @import "article-block";
+  @import "blog-title";
+  @import "css-module";
+  @import "main-nav";
+  @import "page-footer";
+  @import "social-media";
+  @import "utility-nav";
